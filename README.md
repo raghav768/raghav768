@@ -110,7 +110,7 @@
 
 ## 📄 Resume
 
-📌 [**Download My Resume**](https://raghav768.github.io/resume.pdf)
+📌 [**Download My Resume**](https://github.com/raghav768/Portfolio_Public/tree/main/assets/Resume/Raghavendra_Frontend_Resume.pdf)
 
 ---
 

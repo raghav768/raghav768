@@ -22,10 +22,8 @@
 
 ## 🚀 Projects
 
-- 🔗 [**Personal Portfolio**](https://raghav768.github.io/Portfolio_Public/) – React-based portfolio with NodeMailer integration and responsive UI  
-- 🔗 [**React UI Components Library**](https://github.com/raghav768/react-ui-library) – Custom-built, reusable UI components for rapid development  
-- 🔒 **PAMS – Performance Appraisal Management System** – Enterprise-grade employee performance tracking system *(Private)*  
-- 🔒 **NEWWE – Employee Management System** – Gamified EMS for profile and task tracking *(Private)*
+- 🔗 [**Personal Portfolio**](https://raghav768.github.io/Portfolio_Public/) – Portfolio with NodeMailer integration and responsive UI  
+- 🔗 [**React Weather App**](https://github.com/raghav768/weather-app) – Custom-built, reusable UI components for rapid development  
 
 ---
 
